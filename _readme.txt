@@ -1,3 +1,5 @@
+1
+2
 
 Mersenne Primes(console application):
 
